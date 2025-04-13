@@ -1,0 +1,12 @@
+node_modules/
+/test-results/
+/blob-report/
+/playwright/.cache/
+playwright_tests.log
+results.xml
+playwright-report/
+playwright-report/index.html
+/playwright-report/
+.features-gen/
+playwright-report/index.html
+execution_logs.md

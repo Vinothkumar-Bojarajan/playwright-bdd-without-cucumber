@@ -1,0 +1,10 @@
+{
+    "SauceDemo_URL": "https://www.saucedemo.com/",
+    "SauceDemo_Username": "standard_user",
+    "SauceDemo_Password": "secret_sauce",
+    "SauceDemo_Wrong_Username": "standard_use",
+    "SauceDemo_Wrong_Password": "secret_sauc",
+    "SauceDemo_Redirect_URL": "https://www.saucedemo.com/inventory.html",
+    "SauceDemo_Error_Message": "Epic sadface: Username and password do not match any user in this service",
+    "SauceDemo_UserID_Required": "Epic sadface: Username is required"
+}
